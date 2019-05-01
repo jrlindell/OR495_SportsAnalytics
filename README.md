@@ -14,3 +14,12 @@ the expected goals for and against, and the team matchups.
         
         
 Did not check accuracy after playoffs were completed
+
+HW 1: Data Analysis in R using football data from web sources
+
+HW 2: Basketball Plus Minus
+
+HW 3: NCAA Basketball Tournament Bracket Predictions
+
+HW 4: Football Play by Play Data Analysis
+
